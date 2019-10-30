@@ -6,3 +6,11 @@ This is Component 1
 This is Component 1
 This is Component 1
 This is Component 1
+
+Sub child changes
+Sub child changes
+Sub child changes
+Sub child changes
+Sub child changes
+Sub child changes
+Sub child changes
