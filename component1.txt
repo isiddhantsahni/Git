@@ -1,3 +1,7 @@
+
+This is child1 in master branch
+This is child1 in master branch
+This is child1 in master branch 
 This is child 2 under master branch
 This is child 2 under master branch
 This is child 2 under  master branch 
